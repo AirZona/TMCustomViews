@@ -1,0 +1,16 @@
+PODS:
+  - TMCustomViews (0.1.0)
+
+DEPENDENCIES:
+  - TMCustomViews (from `../`)
+
+EXTERNAL SOURCES:
+  TMCustomViews:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TMCustomViews: fdc52d9bb91e192242ca25ea5409a4629c74b83c
+
+PODFILE CHECKSUM: c8d6d53e30ed7a9b252514ae66aebe13a1f57b4a
+
+COCOAPODS: 1.10.1

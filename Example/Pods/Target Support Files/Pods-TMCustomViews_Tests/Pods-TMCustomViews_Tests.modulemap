@@ -1,0 +1,6 @@
+framework module Pods_TMCustomViews_Tests {
+  umbrella header "Pods-TMCustomViews_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

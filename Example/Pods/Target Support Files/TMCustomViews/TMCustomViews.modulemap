@@ -1,0 +1,6 @@
+framework module TMCustomViews {
+  umbrella header "TMCustomViews-umbrella.h"
+
+  export *
+  module * { export * }
+}
